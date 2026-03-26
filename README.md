@@ -1,35 +1,36 @@
 ﻿# Course 21
 
-## About This Project
-I built this project as part of my learning and practice journey. It focuses on core programming concepts, structure, and problem-solving while improving how I organize code and structure features.
+## Project Overview
+I built this project as part of my practical development journey. This README explains what I implemented, how the project is structured, and how to run it locally.
 
-## What I Implemented
-- I implemented core programming concepts, structure, and problem-solving.
-- I organized the project to keep logic clearer and easier to maintain.
+## What This Project Does
+- Application bootstrap and startup flow.
 
 ## Tech Stack
 - C# / .NET
 
-## Project Structure Highlights
-- README.md
-- Program.cs
-- .gitignore
-- App.config
-- Course 21.csproj
-- Course 21.sln
-- Properties/AssemblyInfo.cs
+## Prerequisites
+- .NET SDK (recommended: latest LTS)
+- Visual Studio 2022 (for solution-based desktop projects)
 
-## How To Run
-1. Open the `.sln` file in Visual Studio.
-2. Restore/build the solution.
-3. Run the startup project from Visual Studio.
+## Setup And Run
+1. Open the `.sln` file in Visual Studio 2022.
+2. Restore and build the solution.
+3. Select startup project and run (`F5`).
 
-## What I Learned
-- I practiced building features end-to-end, from structure to execution.
-- I improved code organization and readability choices.
-- I strengthened my debugging and iteration workflow.
+## Module Breakdown (Based On Code)
+- Scanned on: 2026-03-26
+- Module entries listed: 2
+- $mf: Configuration and environment setup.
+- $mf: Application entry point and bootstrap logic.
 
-## Next Improvements
-- Add deeper documentation for each module and workflow.
-- Add tests for the most critical flows.
-- Refine UX/UI and error handling where needed.
+## Screenshots
+- docs/screenshots/home.png (placeholder)
+- docs/screenshots/feature-1.png (placeholder)
+- docs/screenshots/feature-2.png (placeholder)
+- docs/screenshots/workflow.png (placeholder)
+
+## Future Improvements
+- Expand test coverage for critical modules.
+- Improve validation, error handling, and edge-case handling.
+- Add real screenshots and architecture diagram.
